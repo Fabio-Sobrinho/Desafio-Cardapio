@@ -1,0 +1,57 @@
+@media (max-width: 1212px) {
+    body {
+        background-color: var(--Eggshell);
+        font-family: var(--font-1);
+        /* width: 100%;
+        height: 100%; */
+        padding-top: 30px;
+        padding-left: 250px;
+        padding-right: 250px;
+    }
+}
+
+@media screen and (max-width: 914px) {
+    body {
+        background-color: var(--Eggshell);
+        font-family: var(--font-1);
+        /* width: 100%;
+        height: 100%; */
+        padding-top: 15px;
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+
+    main .todo h1 {
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 752px) {
+    body {
+        background-color: var(--Eggshell);
+        font-family: var(--font-1);
+        /* width: 100%;
+        height: 100%; */
+        padding-top: 0px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    main .todo h1 {
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 501px) {
+    body {
+        background-color: var(--Eggshell);
+        font-family: var(--font-1);
+        /* width: 100%;
+        height: 100%; */
+        padding-top: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    main .todo h1 {
+        font-size: 20px;
+    }
+}
