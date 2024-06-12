@@ -163,6 +163,7 @@ article .container-3 h1{
 .container-3 p {
     margin-left: 1rem;
     font-weight: 400;
+    font-family: var(--font-2);
 }
 
 article .container-4 h1{
